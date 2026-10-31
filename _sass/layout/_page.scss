@@ -408,10 +408,10 @@
 /* Embedded CV preview */
 .cv-preview {
   display: block;
-  width: calc(100% + 160px);
+  width: calc(100% + 300px);
   max-width: calc(100vw - 2rem);
   height: 1100px;
-  margin: 1.5rem 0 0 -80px;
+  margin: 1.5rem 0 0 0px;
   border: 1px solid #ddd;
 }
 

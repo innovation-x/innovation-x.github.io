@@ -404,3 +404,20 @@
 #recent-news + ul {
   font-size: 0.9em;
 }
+
+/* Embedded CV preview */
+.cv-preview {
+  display: block;
+  width: calc(100% + 160px);
+  max-width: calc(100vw - 2rem);
+  height: 1100px;
+  margin: 1.5rem 0 0 -80px;
+  border: 1px solid #ddd;
+}
+
+@media (max-width: 768px) {
+  .cv-preview {
+    width: 100%;
+    margin-left: 0;
+  }
+}

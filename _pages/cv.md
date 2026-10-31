@@ -9,4 +9,4 @@ redirect_from:
 
 You can download my CV as a PDF [here]({{ '/files/Chenfei_Xu_CV.pdf' | relative_url }}).
 
-<iframe src="{{ '/files/Chenfei_Xu_CV.pdf' | relative_url }}" title="Chenfei Xu's CV" style="width: 100%; height: 1100px; border: 1px solid #ddd;"></iframe>
+<iframe class="cv-preview" src="{{ '/files/Chenfei_Xu_CV.pdf' | relative_url }}" title="Chenfei Xu's CV"></iframe>

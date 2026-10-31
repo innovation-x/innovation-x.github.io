@@ -202,11 +202,6 @@
     z-index: 100;
   }
 
-  /* Keep the header navigation visible without the collapsed-menu button. */
-  > button {
-    display: none !important;
-  }
-
   .visible-links {
     display: table;
 

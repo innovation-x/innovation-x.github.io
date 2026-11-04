@@ -14,9 +14,13 @@ author_profile: true
   </div>
 </div>
 
-### [Indy](https://grp.riken.jp/)
-
-An interactive robot platform in RIKEN's Guardian Robot Project, which explores autonomous robots that work alongside and gently support people.
+<div style="display: flex; flex-wrap: wrap; gap: 1.25rem; align-items: flex-start; margin-bottom: 2rem;">
+  <img src="{{ '/images/indy.webp' | relative_url }}" alt="Indy robot" style="width: 220px; max-width: 100%; height: auto; flex: 0 0 220px; margin: 0;">
+  <div style="flex: 1 1 320px;">
+    <h3 style="margin-top: 0;"><a href="https://grp.riken.jp/">Indy</a></h3>
+    <p>An interactive robot platform in RIKEN's Guardian Robot Project, which explores autonomous robots that work alongside and gently support people.</p>
+  </div>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.25rem; align-items: flex-start; margin-bottom: 2rem;">
   <img src="{{ '/images/yui.webp' | relative_url }}" alt="Yui interacting with a person" style="width: 280px; max-width: 100%; height: auto; flex: 0 0 280px; margin: 0;">
